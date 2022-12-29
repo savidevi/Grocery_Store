@@ -16,5 +16,5 @@ Project requirements:
         * Show total sales by category
         * Show total sales for each day
 ### TASK:
-I create a script Using python variables, Dictionaries, containers, User 
-input functions, functions, conditional statements and Loops as necessary
+I implemented all the given requirements Using python variables, Dictionaries, containers, User 
+input functions, functions, conditional statements and Loops as necessary. 
