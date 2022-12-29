@@ -1,6 +1,6 @@
 # Grocery_Store
 Language: Python
-Project requirements: 
+### Project requirements: 
     * To create Grocery Store Checkout App.
     * To record each sale and automatically compute total sale for a customer at 
     * check out and generate a receipt for the customer.
