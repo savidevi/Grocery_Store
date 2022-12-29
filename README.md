@@ -19,10 +19,10 @@ check out and generate a receipt for the customer.
 5. Allow the store owner to enter sales per item for each customer and generate a total sales 
 receipt after the sale.
 6. For each customer sales checkout:
-   /n a. Record sales by item and the sales vale
-   /n b. Show total sales by product
-   /n c. Show total sales by category
-   \n d. Show total sales for each day
+    a. Record sales by item and the sales vale
+    b. Show total sales by product
+    c. Show total sales by category
+    d. Show total sales for each day
 ### TASK:
 Use your acquired knowledge of python to implement the above requirements.
 Please note that this MUST be a script and not a GUI application. Use python variables, containers, User 
